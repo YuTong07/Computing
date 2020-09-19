@@ -5,3 +5,5 @@
   - to things like housing shortage
   - to latitudes and longtitudes
   - to meaningful places
+  - and water
+- Life skills and general knowledge, all in one place!
