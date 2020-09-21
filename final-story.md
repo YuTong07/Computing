@@ -2,7 +2,7 @@
 
 Mr Lee and Mdm Juwana step into the classroom for attendance taking.
 
-**Narrator**
+**Narrator:**
 Ah, let's introduce our two form teachers!
 
 First, we have Mr Lee. He teaches us chemistry, biology, physics, all in one subject called Science.
@@ -36,7 +36,7 @@ Her consultations are also very interesting, although we normally stray away fro
 and start asking her about her personal life instead.
 Even after all that, we all love History the same because Ms Poh is also an awesome teacher!
 
-**Narrator**
+**Narrator:**
 Then, it is time to move on to the languages.
 
 As Jiang Lao Shi is seen walking into class, 
@@ -49,7 +49,7 @@ Cikgu Nora steps into class brightly, making us feel ready to learn a new langua
 We may not be proficient in Malay, but Cikgu Nora still makes the classes fun, with small pockets of competitions
 held amongst each row of tables.
 
-**Narrator**
+**Narrator:**
 Moving to the track, we see two sporty teachers.
 
 Ms Lee, our PE teacher waves to us from the track, so we run to make sure that we are not late. 
@@ -67,7 +67,7 @@ It is a place where we can show off our creativity, and he is always so patient 
 never getting mad even if we struggle with knots.
 These are good skills to learn if we ever got stranded in the jungle someday. 
 
-**Narrator**
+**Narrator:**
 A tranquil melody floats across the room, and the splashing of paint across canvas is heard. It is truly a battle of the arts.
 
 Mr Goh, our music teacher, teaches us how to play many instruments 
@@ -83,10 +83,30 @@ instead of out worksheets.
 It is generally quite a free and easygoing lesson, and
 we have quite a fun time trying to explain our art to the teachers.
 
-**Narrator**
+**Narrator:**
 This time, we see three human figures. One is tapping furiously away on the computer in front of him, 
 the light from the computer reflecting off his glasses.
 One is sitting deep in thought, analysing two different sheets of data.
 And the last one is designing something on his computer, making the outline of something that resembles a cookie box.
 
-Mr Ho, our computing teacher,
+Mr Ho, our computing teacher, patiently tries to explain the lesson objectives.
+We struggle quite a lot but we have the most fun in computing lessons.
+Coding can be hard to pick up but the computing teachers are really helpful in helping us get the work done.
+We would like to give an honourary mention to Mr Mark Leonard - he's a very chill teacher as well!
+
+Mr Yap, our TRP teacher for the even index numbers waits for our return to the classroom.
+TRP is where we use our brains and think the most and learn how to solve solutions better.
+Our brains may hurt after the lesson but it is mostly worth it.
+The debates held were very interesting to see and experience, so thank you Mr Yap
+for giving us the time to carry the debates out!
+
+Mr Low, our makerspace teacher, feeds the design he just made into the laser cutter, 
+which cuts the wood into precise shapes. It may have been very troublesome to understand how to get the 
+dimensions of the cookie boxes right, especially
+when we had to learn to use the software at home.
+Still, Mr Low held google meets for us to clarify our doubts.
+In the end, most of us were able to produce decent cookie boxes as a reward for our effort.
+His way of starting his lessons by taking our minds off school were also 
+very interesting, and I think it showed that
+he really cared for his students' wellbeing.
+
