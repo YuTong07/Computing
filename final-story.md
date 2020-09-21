@@ -110,3 +110,7 @@ His way of starting his lessons by taking our minds off school were also
 very interesting, and I think it showed that
 he really cared for his students' wellbeing.
 
+## A very big thank you to all teachers of 1F, for helping us grow from clueless Y1s to budding Y2
+## students. It has been a tough journey trying to adapt to HBL and getting students to communicate,
+## but I hope you, our teachers, know that we are all very appreciative of your efforts.
+## Thank you!
